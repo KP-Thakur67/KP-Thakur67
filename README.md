@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0ea5e9,50:6366f1,100:a855f7&section=header&text=Kripal%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=58&descSize=20&animation=fadeIn" alt="Kripal Singh - Java Backend Developer, Spring Boot, REST APIs" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0ea5e9,50:6366f1,100:a855f7&section=header&text=Kripal%20Singh&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=58&descSize=20&animation=fadeIn" alt="Kripal Singh - Java FullStack Developer, Spring Boot, REST APIs" width="100%" />
 
 <a href="https://github.com/KP-Thakur67">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Aspiring+Java+Backend+Developer;Building+REST+APIs+with+Spring+Boot;Spring+Security+%7C+JWT+%7C+PostgreSQL+%7C+Docker;B.Tech+CSE+%7C+Class+of+2027" alt="Aspiring Java Backend Developer. Building REST APIs with Spring Boot. Spring Security, JWT, PostgreSQL, Docker." />
